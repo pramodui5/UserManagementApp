@@ -1,0 +1,13 @@
+.footer {
+    background-color: #111;
+    min-height: 8vh;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15%;
+    justify-content: center;
+}
+.copyright {
+    font-size: 1rem;
+    color: #ffffff;
+    text-align: center;
+}

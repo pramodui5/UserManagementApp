@@ -1,0 +1,18 @@
+.newUser {
+    padding: 40px;
+    width: 100%;
+}
+.newUser form {
+    display: flex;
+    flex-direction: column;
+}
+.newUser input{
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.newUser button {
+    width: fit-content;
+    align-self: center;
+}

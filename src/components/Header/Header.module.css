@@ -1,0 +1,23 @@
+.header{
+    background-color: #003f88;
+    color: #fff;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: row;
+    padding: 0 15%;
+}
+.logo {
+    align-self: center;
+    border-bottom: 7px solid #fff;
+    color: #fff;
+    font-size: 2rem;    
+    line-height: 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.title {
+    font-size: 2.5rem;
+    text-transform: uppercase;
+    align-self: center;
+    flex: 1;
+}

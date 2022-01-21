@@ -1,0 +1,27 @@
+.userForm {
+  margin: 2rem;
+  padding: 2rem;
+  width: 400px;
+}
+
+.userForm label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.userForm input {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  display: block;
+  font: inherit;
+  padding: 10px 15px;
+  margin-bottom: 2rem;
+  width: 90%;
+}
+
+.userForm input:focus {
+  outline: none;
+  border-color: #4f005f;
+}
